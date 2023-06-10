@@ -9,6 +9,8 @@ several systems will be very difficult. It should be fully compatible with all s
 <span>This component is completely open source, and you may use it in any of your projects! We simply ask that you remove our name and colors, which can easily be done by changing the primary/secondary/accent colors at the
 :root in the .css file. You will also need to either provide the .css file images (which are marked "INSERT IMAGE HERE"), or delete the references to them. We did not include any font files or stylings in the .css file or the repository.</span>
 <div>&nbsp;</div>
+<span>We are currently working on the "loading" state! This should be updated shortly.</span>
+<div>&nbsp;</div>
 <span>If you want to integrate this component into your React project, you will need an OpenAI API key, and you will need to set an environment variable to 'REACT_APP_OPENAI_API_KEY = "xx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"', 
 or you will need to change the references to "REACT_APP_OPENAI_API_KEY" in the .js file to whatever the name for your enviroment variable that contains your API key is.</span>
 <div>&nbsp;</div>
