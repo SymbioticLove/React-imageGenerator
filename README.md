@@ -2,7 +2,8 @@
 <span >This is a fully functional react component for our DALLE&middot;E powered image generator. This is posted here mainly for developers to use and for employers to see, as attempting to use it without prior knowledge of 
 several systems will be very difficult. It should be fully compatible with all screen sizes, orientations and resolutions. If you have a conflict, reach out to support@symbiotic.love with a report.</span>
 <div>&nbsp;</div>
-<img src="./imgbot.png">
+<div><img src="./imgbot.png"><img src="./imgbotresult.png"></div>
+<div><img src="./img2Prompt.png><img src="./img2Result.png"></div>
 <div>&nbsp;</div>
 <span>Soon, it will be integrated with our lite chat bot (hosted at https://github.com/SymbioticLove/Chat-lite, and easier to set up) and hosted on our main site, at which point it will be free and easy for anyone to use.</span>
 <h2>Contrary to Our Standard "Do Not Steal" Policy...</h2>
