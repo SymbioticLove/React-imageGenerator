@@ -1,6 +1,8 @@
 <h1>SymbioticBot imageGenerator React Component Powered by DALL&middot;E</h1>
-<span>This is a fully functional react component for our DALLE&middot;E powered image generator. This is posted here mainly for developers to use and for employers to see, as attempting to use it without prior knowledge of 
+<span >This is a fully functional react component for our DALLE&middot;E powered image generator. This is posted here mainly for developers to use and for employers to see, as attempting to use it without prior knowledge of 
 several systems will be very difficult.</span>
+<div>&nbsp;</div>
+<img src="./imgbot.png">
 <div>&nbsp;</div>
 <span>Soon, it will be integrated with our lite chat bot (hosted at https://github.com/SymbioticLove/Chat-lite, and easier to set up) and hosted on our main site, at which point it will be free and easy for anyone to use.</span>
 <h2>Contrary to Our Standard "Do Not Steal" Policy...</h2>
