@@ -3,6 +3,9 @@
     --secondary: #e4f0df;
     --pink-accent: #ce4760;
     --purp-accent: #572cb5;
+    --primary-font:;
+    --secondary-font:;
+    --tertiary-font:;
     --shadow: 5px 5px 15px #000;
     --spacing: .05rem;
     background-color: var(--primary);
