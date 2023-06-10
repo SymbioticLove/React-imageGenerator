@@ -15,3 +15,6 @@ several systems will be very difficult. It should be fully compatible with all s
 or you will need to change the references to "REACT_APP_OPENAI_API_KEY" in the .js file to whatever the name for your enviroment variable that contains your API key is.</span>
 <div>&nbsp;</div>
 <span>If you need an API key, you can get one for free by visiting https://platform.openai.com/, creating an account, and clicking on "View API keys" under your account.</span>
+<div>&nbsp;</div>
+<div><img src="./img2Prompt.png"><img src="./img2Result.png"></div>
+<div>&nbsp;</div>
