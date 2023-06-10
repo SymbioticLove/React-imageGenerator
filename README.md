@@ -1,6 +1,6 @@
 <h1>SymbioticBot imageGenerator React Component Powered by DALL&middot;E</h1>
 <span >This is a fully functional react component for our DALLE&middot;E powered image generator. This is posted here mainly for developers to use and for employers to see, as attempting to use it without prior knowledge of 
-several systems will be very difficult. It should be fully compatible with all screen sizes, orientations and resolutions. If you have a conflict, reach out to support@symbiotic.love with a report.</span>
+several systems will be very difficult. It should be fully compatible with all screen sizes, orientations and resolutions. If you have a conflict, reach out to <a href="mailto:support@symbiotic.love?subject=imageGenerator%20Bug%20Report" alt="Send Us an Email">support@symbiotic.love</a> with a report.</span>
 <div>&nbsp;</div>
 <div><img src="./imgbot.png"><img src="./imgbotresult.png"></div>
 <div>&nbsp;</div>
