@@ -54,7 +54,7 @@ span {
     padding: 1rem 2rem;
     font-size: 1.25rem;
     background-position: top;
-    background-image: url(/public/logo11.svg);
+    background-image: url(/public/"INSERT IMAGE HERE");
     background-color: var(--secondary);
     background-blend-mode: overlay;
     border-radius: 10px;
@@ -72,7 +72,7 @@ textarea {
     margin-bottom: 5rem;
     box-shadow: var(--shadow);
     background-position: top;
-    background-image: url(/public/logo11.svg);
+    background-image: url(/public/"INSERT IMAGE HERE");
     background-color: var(--secondary);
     background-blend-mode: screen;
     margin: 3%;
@@ -128,7 +128,7 @@ textarea {
     padding: 1rem 2rem;
     font-size: 1.25rem;
     background-position: top;
-    background-image: url(/public/logo11.svg);
+    background-image: url(/public/"INSERT IMAGE HERE");
     background-color: var(--secondary);
     background-blend-mode: overlay;
     border-radius: 10px;
