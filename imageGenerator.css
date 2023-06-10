@@ -1,0 +1,211 @@
+:root {
+    --primary: #193b1e;
+    --secondary: #e4f0df;
+    --pink-accent: #ce4760;
+    --purp-accent: #572cb5;
+    --shadow: 5px 5px 15px #000;
+    --spacing: .05rem;
+    background-color: var(--primary);
+}
+.container {
+    margin: 0;
+    background-color: var(--primary);
+    margin: 5%;
+}
+
+.enlarged {
+    transform: scale(2.5);
+}
+
+.enlarged .imageContainer {
+    position: relative;
+}
+
+span {
+    padding: 0 2rem;
+    color: var(--secondary);
+    font-size: 4rem;
+}
+
+.closeButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.closeButton:hover {
+    transform: scale(1.2);
+    color: var(--pink-accent);
+}
+
+.enlargeButtonContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.enlargeButton {
+    color: var(--primary);
+    padding: 1rem 2rem;
+    font-size: 1.25rem;
+    background-position: top;
+    background-image: url(/public/logo11.svg);
+    background-color: var(--secondary);
+    background-blend-mode: overlay;
+    border-radius: 10px;
+}
+
+.enlargeButton:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow);
+    color: var(--pink-accent);
+    cursor: pointer;
+}
+
+textarea {
+    border: 2px solid var(--primary);
+    margin-bottom: 5rem;
+    box-shadow: var(--shadow);
+    background-position: top;
+    background-image: url(/public/logo11.svg);
+    background-color: var(--secondary);
+    background-blend-mode: screen;
+    margin: 3%;
+    padding: 3%;
+    border-radius: 25px 25px 0 25px;
+    max-width: 80vw;
+}
+
+.title {
+    font-size: 3rem;
+    margin: 1rem 1rem 0;
+    text-align: center;
+    color: var(--secondary);
+    letter-spacing: var(--spacing);
+}
+
+.subtitle {
+    font-size: 2rem;
+    width: fit-content;
+    margin: 1rem auto 3rem;
+    color: var(--secondary);
+    letter-spacing: var(--spacing);
+}
+
+.descriptionContainer {
+    display: flex;
+    justify-content: center;
+    margin: 0 3rem 3rem;
+    opacity: .6;
+}
+
+.description {
+    font-size: 1.5rem;
+    width: fit-content;
+    height: 100%;
+    margin: .5rem 1rem;
+    text-align: center;
+    color: var(--secondary);
+    padding-right: 1rem;
+    letter-spacing: var(--spacing);
+
+}
+
+.generateButtonContainer {
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-bottom: 1rem;
+}
+
+.generateButton {
+    color: var(--primary);
+    padding: 1rem 2rem;
+    font-size: 1.25rem;
+    background-position: top;
+    background-image: url(/public/logo11.svg);
+    background-color: var(--secondary);
+    background-blend-mode: overlay;
+    border-radius: 10px;
+}
+
+.generateButton:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow);
+    color: var(--pink-accent);
+    cursor: pointer;
+}
+
+.info {
+    font-size: 2rem;
+    color: var(--secondary);
+    margin: 0 auto;
+    letter-spacing: var(--spacing);
+    border-bottom: 5px double var(--secondary);
+    padding-bottom: 1rem;
+    width: fit-content;
+}
+
+.resultContainer {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.arrowContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.result-image {
+    height: 524px;
+    aspect-ratio: 1/1;
+}
+
+.promptContainer {
+    width: fit-content;
+    margin: auto;
+}
+
+.originalPlaceholder {
+    font-size: 2rem;
+}
+
+.originalPlaceholder::placeholder {
+    color: var(--primary);
+}
+
+.secondaryPlaceholder {
+    font-size: 2rem;
+}
+
+.secondaryPlaceholder::placeholder {
+    color: var(--primary);
+}
+
+.app-input {
+    color: var(--primary)
+}
+@media only screen and (max-width:900px){
+    .enlarged {
+        transform: scale(1.4);
+    }
+}
+
+@media only screen and (max-width:600px){
+    .result-image {
+        height: 262px;
+    }
+}
+  
+  
+  
+  
+  
+  
+  
