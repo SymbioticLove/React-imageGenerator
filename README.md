@@ -12,7 +12,7 @@ several systems will be very difficult. It should be fully compatible with all s
 <span>We are currently working on the "loading" state! This should be updated shortly.</span>
 <div>&nbsp;</div>
 <span>If you want to integrate this component into your React project, you will need an OpenAI API key, and you will need to set an environment variable to 'REACT_APP_OPENAI_API_KEY = "xx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"', 
-or you will need to change the references to "REACT_APP_OPENAI_API_KEY" in the .js file to whatever the name for your enviroment variable that contains your API key is.</span>
+or you will need to change the references to "REACT_APP_OPENAI_API_KEY" in the .js file to retrieve the enviroment variable that contains your API key.</span>
 <div>&nbsp;</div>
 <span>If you need an API key, you can get one for free by visiting https://platform.openai.com/, creating an account, and clicking on "View API keys" under your account.</span>
 <div>&nbsp;</div>
